@@ -1,0 +1,1000 @@
+   69  cd 2052
+   70  ls
+   71  pip3 install gpiozero
+   72  pip freeze
+   73  pip3 install RPi.GPIO
+   74  pip freeze
+   75  pinout
+   76  nano trabalho3.py
+   77  python trabalho3.py 
+   78  nano trabalho3.py 
+   79  python trabalho3.py 
+   80  nano trabalho3.py 
+   81  python trabalho3.py 
+   82  nano trabalho3.py 
+   83  python trabalho3.py 
+   84  nano trabalho3.py 
+   85  python trabalho3.py 
+   86  nano trabalho3.py 
+   87  python trabalho3.py 
+   88  nano trabalho3.py 
+   89  nano trabalho3_pt2.py
+   90  python trabalho3_pt2.py 
+   91  nano trabalho3_pt2.py
+   92  python trabalho3_pt2.py 
+   93  nano trabalho3_pt2.py
+   94  python trabalho3_pt2.py 
+   95  nano trabalho3_pt2.py
+   96  python trabalho3_pt2.py 
+   97  pinout
+   98  ls
+   99  source venvbinactivate
+  100  source venv/bin/activate
+  101  ls
+  102  cd Pratica3_Andre_Vitor_venv
+  103  cd 8149
+  104  ls
+  105  source 8149/bin/activate
+  106  cd
+  107  source 8149/bin/activate
+  108  python
+  109  python3
+  110  cd 8149
+  111  pip freeze
+  112  nano
+  113  nano pushbutton.py
+  114  pinout
+  115  source 8149/bin/activate
+  116  ls
+  117  cd 8149
+  118  ls
+  119  event_detector.py
+  120  ./event_detector.py
+  121  sudo ./event_detect.py
+  122  python event_detect.py
+  123  python event_detector.py
+  124  pinout
+  125  python event_detector.py
+  126  python pushbutton.py
+  127  python event_detector.py
+  128  deactivate
+  129  dp 7098
+  130  ls
+  131  cd 7098
+  132  dp 7098
+  133  7098
+  134  cd ..
+  135  source 7098/bin/activate
+  136  cd 7098
+  137  nano botao.py
+  138  python botao.py
+  139  nano botao.py
+  140  python botao.py
+  141  nano botao.py
+  142  nano led.py
+  143  ls
+  144  nano piscar.py
+  145  nano botao.py
+  146  nano piscar.py
+  147  nano botao.py
+  148  nano piscar.py
+  149  nano botao.py
+  150  python botao.py
+  151  nano botao.py
+  152  deactivate
+  153  cd ..
+  154  cd
+  155  ls
+  156  cd 2052
+  157  ls
+  158  history
+  159  cd ..
+  160  source 2052/bin/activate
+  161  cd 2052
+  162  ls
+  163  pinout
+  164  nano trabalho3.py
+  165  touch trabalho3_button.py
+  166  ls
+  167  nano trabalho3_button.py 
+  168  nano trabalho3.py
+  169  nano trabalho3_button.py 
+  170  nano trabalho3.py
+  171  nano trabalho3_button.py 
+  172  nano trabalho3.py
+  173  nano trabalho3_button.py 
+  174  python trabalho3_button.py 
+  175  nano trabalho3_button.py 
+  176  python trabalho3_button.py 
+  177  nano trabalho3_pt2.py 
+  178  nano trabalho3_button.py 
+  179  python trabalho3_button.py 
+  180  nano trabalho3_button.py 
+  181  python trabalho3_button.py 
+  182  nano trabalho3_button.py 
+  183  python trabalho3_button.py 
+  184  nano trabalho3_button.py 
+  185  python trabalho3_button.py 
+  186  nano trabalho3_button.py 
+  187  touch trabalho3_desafio.py
+  188  nano trabalho3_desafio.py 
+  189  nano trabalho3_button.py 
+  190  nano trabalho3_desafio.py 
+  191  nano trabalho3_button.py 
+  192  nano trabalho3_desafio.py 
+  193  python trabalho3_desafio.py 
+  194  nano trabalho3_desafio.py 
+  195  python trabalho3_desafio.py 
+  196  nano trabalho3_desafio.py 
+  197  python trabalho3_desafio.py 
+  198  nano trabalho3_desafio.py 
+  199  nano trabalho3_button.py 
+  200  pinout
+  201  python
+  202  geany
+  203  ls
+  204  cd 8149
+  205  ls
+  206  ./pwm.py
+  207  sudo ./pwm.py
+  208  .\pwm.py
+  209  ./pwm.py
+  210  cd..
+  211  cd ..
+  212  geany
+  213  ls
+  214  cd 8149
+  215  ls
+  216  ./pwm.py
+  217  python
+  218  python pwm.py
+  219  geany
+  220  python pwm.py
+  221  ls
+  222  cd 8149
+  223  ls
+  224  python pwm.py
+  225  geany
+  226  pinout
+  227  ls
+  228  cd 8149
+  229  ls
+  230  SensorPresenca.py
+  231  python SensorPresenca.py
+  232  geany
+  233  python SensorPresenca.py
+  234  geany
+  235  python SensorPresenca.py
+  236  geany
+  237  python SensorPresenca.py
+  238  geany
+  239  nano SensorPresenca.oy
+  240  nano SensorPresenca.py
+  241  python3 SensorPresenca.py
+  242  nano SensorPresenca.py
+  243  python3 SensorPresenca.py
+  244  geany
+  245  python event_detector.py
+  246  geany
+  247  python3 SensorPresenca.py
+  248  ls
+  249  cd
+  250  ls
+  251  cd 8149
+  252  ls
+  253  cd
+  254  source 8149/bin/activate
+  255  python3 SensorPresenca.py
+  256  cd 8149
+  257  python3 SensorPresenca.py
+  258  ls
+  259  python3 ledblink.py
+  260  geany[
+  261  geany
+  262  python3 ledblink.py
+  263  ls
+  264  geany
+  265  python3 SensorPresenca.py
+  266  geany
+  267  source 7098/bin/activate
+  268  cd 7098
+  269  nano ledpwm.py
+  270  cd//
+  271  cs //
+  272  cd ..
+  273  quit()
+  274  deactivate
+  275  pip 7098
+  276  source 7098/bin/activate
+  277  pip freeze
+  278  cd 7098
+  279  pip freeze
+  280  pip install TIME-python
+  281  ls 
+  282  nano ledpwm.py
+  283  python ledpwm.py
+  284  nano ledsom.py
+  285  python ledsom.py
+  286  nano ledsom.py
+  287  python ledsom.py
+  288  nano ledsom.py
+  289  python ledsom.py
+  290  nano ledsm.py
+  291  ls
+  292  nano ledsom.py
+  293  python ledsom.py
+  294  nano ledsom.py
+  295  python ledsom.py
+  296  nano ledsom.py
+  297  python ledsom.py
+  298  nano ledsom.py
+  299  python ledsom.py
+  300  nano ledsom.py
+  301  python ledsom.py
+  302  nano ledsom.py
+  303  python ledsom.py
+  304  nano ledsom.py
+  305  python ledsom.py
+  306  nano ledsom.py
+  307  python ledsom.py
+  308  nano ledsom.py
+  309  python ledsom.py
+  310  cd..
+  311  cd ..
+  312  deactivate
+  313  pinout
+  314  ls
+  315  cd Documents/
+  316  ls
+  317  cd ..
+  318  cd 2052
+  319  ls
+  320  cd ..
+  321  source 2052/bin/activate
+  322  ls
+  323  cd 2052/
+  324  ls
+  325  mkdir pratica4
+  326  ls
+  327  cd pratica4/
+  328  ls
+  329  touch pwm_pratica4
+  330  rm pwm_pratica4 
+  331  touch pwm_pratica4.py
+  332  ls
+  333  nano pwm_pratica4.py 
+  334  nano pwm_pratica4.py 
+  335  cd 
+  336  ls
+  337  cd Downloads/
+  338  ls
+  339  cd ..
+  340  cd 2052/
+  341  cd pratica4/
+  342  ls
+  343  nano pwm_pratica4.py 
+  344  python3 pwm_pratica4.py 
+  345  nano pwm_pratica4.py 
+  346  python3 pwm_pratica4.py 
+  347  nano pwm_pratica4.py 
+  348  python3 pwm_pratica4.py 
+  349  nano pwm_pratica4.py 
+  350  python3 pwm_pratica4.py 
+  351  nano pwm_pratica4.py 
+  352  python3 pwm_pratica4.py 
+  353  nano pwm_pratica4.py 
+  354  python3 pwm_pratica4.py 
+  355  touch distanceSensor.py
+  356  nano distanceSensor.py 
+  357  python3 pwm_pratica4.py 
+  358  nano distanceSensor.py 
+  359  python3 distanceSensor.py 
+  360  nano distanceSensor.py 
+  361  python3 distanceSensor.py 
+  362  nano distanceSensor.py 
+  363  python3 distanceSensor.py 
+  364  nano distanceSensor.py 
+  365  python3 distanceSensor.py 
+  366  nano distanceSensor.py 
+  367  python3 distanceSensor.py 
+  368  nano distanceSensor.py 
+  369  python3 distanceSensor.py 
+  370  nano distanceSensor.py 
+  371  python3 distanceSensor.py 
+  372  nano distanceSensor.py 
+  373  python3 distanceSensor.py 
+  374  nano distanceSensor.py 
+  375  python3 distanceSensor.py 
+  376  nano distanceSensor.py 
+  377  python3 distanceSensor.py 
+  378  nano distanceSensor.py 
+  379  python3 distanceSensor.py 
+  380  nano distanceSensor.py 
+  381  python3 distanceSensor.py 
+  382  nano distanceSensor.py 
+  383  python3 distanceSensor.py 
+  384  nano distanceSensor.py 
+  385  python3 distanceSensor.py 
+  386  nano distanceSensor.py 
+  387  python3 distanceSensor.py 
+  388  nano pwm_pratica4.py 
+  389  python3 pwm_pratica4.py 
+  390  nano pwm_pratica4.py 
+  391  cd 2052/
+  392  cd pratica4/
+  393  nano pwm_pratica4.py 
+  394  pinout
+  395  ls
+  396  cd 8149
+  397  ls
+  398  python3 SensorPresenca.py
+  399  source 7098/bin/activate
+  400  cd 7098
+  401  sudo raspi-config interface options
+  402  sudo I2Cdetect -y 1
+  403  sudo i2cdetect -y 1
+  404  sudo raspi-config interface options
+  405  sudo i2cdetect -y 1
+  406  nano protocoled.py
+  407  python protocoled.py
+  408  pip install smbus
+  409  python protocoled.py
+  410  sudo i2cdetect -y 1
+  411  ls
+  412  cd 2025
+  413  cd 2052
+  414  ls
+  415  touch trabalho5_i2c.py
+  416  nano trabalho5_i2c.py 
+  417  python3 trabalho5_i2c.py 
+  418  nano trabalho5_i2c.py 
+  419  touch trabalho5_pot.py
+  420  nano trabalho5_pot.py 
+  421  sudo i2cdetect -y 1
+  422  pinou
+  423  pinout
+  424  sudo i2cdetect -y 1
+  425  Geany
+  426  geany
+  427  ls
+  428  cd 8149
+  429  ls
+  430  python3 pratica5.py
+  431  geany
+  432  python3 pratica5.py
+  433  geany
+  434  ls
+  435  cd 2052/
+  436  ls
+  437  cd pratica4/
+  438  ls
+  439  cd ..
+  440  ls
+  441  nano trabalho5_i2c.py 
+  442  nano trabalho5_pot.py 
+  443  nano trabalho5_i2c.py 
+  444  nano trabalho5_pot.py 
+  445  nano trabalho5_i2c.py 
+  446  nano trabalho5_pot.py 
+  447  pinout
+  448  nano trabalho5_pot.py 
+  449  ls
+  450  nano trabalho3.py 
+  451  nano trabalho3_pt2.py 
+  452  nano trabalho5_pot.py 
+  453  python3 trabalho5_pot.py 
+  454  nano trabalho5_pot.py 
+  455  python3 trabalho5_pot.py 
+  456  nano trabalho5_pot.py 
+  457  python3 trabalho5_pot.py 
+  458  nano trabalho5_pot.py 
+  459  python3 trabalho5_pot.py 
+  460  sudo i2cdetect -y 1
+  461  python3 trabalho5_pot.py 
+  462  raspiconfig
+  463  sudo raspi-config 
+  464  python3 trabalho5_pot.py 
+  465  sudo i2cdetect -y 1
+  466  nano trabalho5_pot.py 
+  467  python3 trabalho5_pot.py 
+  468  sudo i2cdetect -y 1
+  469  python3 trabalho5_pot.py 
+  470  sudo i2cdetect -y 1
+  471  nano trabalho5_pot.py 
+  472  sudo i2cdetect -y 1
+  473  python3 trabalho5_pot.py 
+  474  nano trabalho5_pot.py 
+  475  python3 trabalho5_pot.py 
+  476  sudo i2cdetect -y 1
+  477  nano trabalho5_pot.py 
+  478  sudo i2cdetect -y 1
+  479  python3 trabalho5_pot.py 
+  480  nano trabalho5_pot.py 
+  481  python3 trabalho5_pot.py 
+  482  nano trabalho5_pot.py 
+  483  python3 trabalho5_pot.py 
+  484  nano trabalho5_pot.py 
+  485  python3 trabalho5_pot.py 
+  486  nano trabalho5_pot.py 
+  487  python3 trabalho5_pot.py 
+  488  nano trabalho5_pot.py 
+  489  python3 trabalho5_pot.py 
+  490  nano trabalho5_pot.py 
+  491  python3 trabalho5_pot.py 
+  492  nano trabalho5_pot.py 
+  493  python3 trabalho5_pot.py 
+  494  nano trabalho5_pot.py 
+  495  python3 trabalho5_pot.py 
+  496  nano trabalho5_pot.py 
+  497  python3 trabalho5_pot.py 
+  498  nano trabalho5_pot.py 
+  499  python3 trabalho5_pot.py 
+  500  nano trabalho5_pot.py 
+  501  python3 trabalho5_pot.py 
+  502  nano trabalho5_pot.py 
+  503  python3 trabalho5_pot.py 
+  504  nano trabalho5_pot.py 
+  505  python3 trabalho5_pot.py 
+  506  sudo i2cdetect
+  507  sudo i2cdetect -y 1
+  508  sudo i2cdetect -y
+  509  sudo i2cdetect -y 1
+  510  geany
+  511  ls
+  512  cd 8149/
+  513  ls
+  514  python3 pratica5_tutorial2.py
+  515  geany
+  516  sudo rapi-config
+  517  sudo raspi-config
+  518  nano nusp.py
+  519  nano ID.py
+  520  python ID.py
+  521  pip3 install mfrc522
+  522  python ID.py
+  523  python  nusp.py
+  524  nano nusp.py
+  525  python  nusp.py
+  526  python acesso_id.py
+  527  nano acesso_id.py
+  528  python ID.py
+  529  nano acesso_id.py
+  530  python acesso_id.py
+  531  nano acesso_id.py
+  532  python acesso_id.py
+  533  nano acesso_id.py
+  534  python acesso_id.py
+  535  nano acesso_id.py
+  536  python acesso_id.py
+  537  nano acesso_id.py
+  538  python acesso_id.py
+  539  nano acesso_id.py
+  540  python acesso_id.py
+  541  nano acesso_id.py
+  542  ls
+  543  source 2052/bin/activate
+  544  ls
+  545  cd 2052/
+  546  ls
+  547  pip install mfrc522
+  548  pip3 install mfrc522
+  549  pinout
+  550  source 2052/bin/activate
+  551  ls
+  552  cd 2052
+  553  ls
+  554  pinout
+  555  sudo raspi-config
+  556  ls
+  557  touch trabalho6_tag.py
+  558  nano trabalho6_tag.py 
+  559  trabalho6_tag.py > trabalho_tagWrite.py
+  560  mv trabalho6_tag.py > trabalho_tagWrite.py
+  561  mv trabalho6_tag.py -> trabalho_tagWrite.py
+  562  ls
+  563  nano trabalho_tagWrite.py 
+  564  mv trabalho_tagWrite.py -> trabalho6_tagWrite.py
+  565  ls
+  566  nano trabalho6_tagWrite.py 
+  567  python3 trabalho6_tagWrite.py 
+  568  touch trabalho6_tagRead.py 
+  569  nano trabalho6_tagRead.py 
+  570  python3 trabalho6_tagRead.py 
+  571  touch trabalho6_tagAccess.py
+  572  nano trabalho6_tagAccess.py 
+  573  nano trabalho6_tagWrite.py 
+  574  nano trabalho6_tagAccess.py 
+  575  python3 trabalho6_tagAccess.py 
+  576  nano trabalho6_tagAccess.py 
+  577  python3 trabalho6_tagAccess.py 
+  578  nano trabalho6_tagAccess.py 
+  579  nano trabalho3_button.py 
+  580  nano trabalho6_tagAccess.py 
+  581  nano trabalho3_button.py 
+  582  nano trabalho6_tagAccess.py 
+  583  nano trabalho3_button.py 
+  584  nano trabalho6_tagAccess.py 
+  585  nano trabalho3_button.py 
+  586  nano trabalho6_tagAccess.py 
+  587  pinout
+  588  nano trabalho6_tagAccess.py 
+  589  nano trabalho3_button.py 
+  590  nano trabalho6_tagAccess.py 
+  591  python3 trabalho6_tagAccess.py 
+  592  nano trabalho6_tagAccess.py 
+  593  python3 trabalho6_tagAccess.py 
+  594  nano trabalho6_tagAccess.py 
+  595  python3 trabalho6_tagAccess.py 
+  596  nano trabalho6_tagAccess.py 
+  597  python3 trabalho6_tagAccess.py 
+  598  pinout
+  599  nano trabalho6_tagAccess.py 
+  600  python3 trabalho6_tagAccess.py 
+  601  nano trabalho6_tagAccess.py 
+  602  python3 trabalho6_tagAccess.py 
+  603  cd 8149
+  604  ls
+  605  python3 rfid.py
+  606  touch controle_acesso.py
+  607  greany controle_acesso.py
+  608  geany controle_acesso.py
+  609  python3 controle_acesso.py
+  610  pinout
+  611  python3 controle_acesso.py
+  612  python3 rfid.py
+  613  PINOUT
+  614  pinout
+  615  python3 rfid.py
+  616  pinout
+  617  pinout
+  618  sudo raspi-config
+  619  pip3 install mfrc522
+  620  ls
+  621  cd 8149
+  622  ls
+  623  touch rfid.py
+  624  geany
+  625  geany rfid.py
+  626  cd 8149
+  627  ls
+  628  python3 rfid.py 
+  629  python3 controle_acesso.py
+  630  geany controle_acesso.py
+  631  pinout
+  632  geany controle_acesso.py
+  633  python3 controle_acesso.py
+  634  geany controle_acesso.py
+  635  ls
+  636  ID.py
+  637  nano ID.py
+  638  python ID.py
+  639  nano acesso.py
+  640  ls
+  641  acesso_id.py
+  642  nano acesso_id.py
+  643  python acesso_id.py
+  644  nano acesso_id.py
+  645  python acesso_id.py
+  646  nano acesso_id.py
+  647  python acesso_id.py
+  648  nano acesso_id.py
+  649  python acesso_id.py
+  650  nano acesso_id.py
+  651  python acesso_id.py
+  652  nano acesso_id.py
+  653  python acesso_id.py
+  654  nano acesso_id.py
+  655  python acesso_id.py
+  656  nano acesso_id.py
+  657  python acesso_id.py
+  658  nano acesso_id.py
+  659  python acesso_id.py
+  660  nano acesso_id.py
+  661  python acesso_id.py
+  662  nano acesso_id.py
+  663  python acesso_id.py
+  664  nano acesso_id.py
+  665  python acesso_id.py
+  666  nano acesso_id.py
+  667  nano uso_camera.py
+  668  python acesso_id.py
+  669  ls
+  670  nano uso_camera.py
+  671  ls
+  672  nano uso_camera.py
+  673  ls
+  674  pip install opencv-python 
+  675  pip list
+  676  pip freeze
+  677  pip install opencv-python 
+  678  libcamera-hello
+  679  pip install opencv-python 
+  680  libcamera-hello
+  681  ls
+  682  pinout
+  683  ls
+  684  source 2052/bin/activate
+  685  ls
+  686  cd 2052/
+  687  ls
+  688  python3 trabalho6_tagRead.py 
+  689  python3 trabalho6_tagWrite.py 
+  690  python3 trabalho6_tagRead.py 
+  691  nano trabalho6_tagAccess.py 
+  692  python3 trabalho6_tagAccess.py 
+  693  python3 trabalho6_tagRead.py 
+  694  python3 trabalho6_tagWrite.py 
+  695  python3 trabalho6_tagRead.py 
+  696  source 2052/bin/activate
+  697  cd 2052/
+  698  python3 trabalho6_cam.py 
+  699  libcamera-hello
+  700  source 2052/bin/activate
+  701  libcamera-hello
+  702  deactivate
+  703  libcamera-hello
+  704  rpicam-hello
+  705  source 2052/bin/activate
+  706  cd 2052/
+  707  ls
+  708  python3 trabalho6_tagRead.py 
+  709  python3 trabalho6_tagWrite.py 
+  710  python3 trabalho6_tagRead.py 
+  711  python3 trabalho6_tagWrite.py 
+  712  python3 trabalho6_tagRead.py 
+  713  python3 trabalho6_tagAccess.py 
+  714  python3 trabalho6_tagWrite.py 
+  715  python3 trabalho6_tagAccess.py 
+  716  nano trabalho6_tagAccess.py 
+  717  python3 trabalho6_tagAccess.py 
+  718  nano trabalho6_tagAccess.py 
+  719  python3 trabalho6_tagAccess.py 
+  720  nano trabalho6_tagAccess.py 
+  721  python3 trabalho6_tagAccess.py 
+  722  nano trabalho6_tagAccess.py 
+  723  python3 trabalho6_tagAccess.py 
+  724  nano trabalho6_tagAccess.py 
+  725  pip install opencv-python
+  726  pip install picamera2
+  727  pip3 install picamera2
+  728  python3 trabalho6_tagAccess.py 
+  729  python3 trabalho6_tagRead.py 
+  730  pip3 install picamera2
+  731  sudo update
+  732  sudo upgrade
+  733  sudo update
+  734  pip picamera2 version
+  735  deactivate
+  736  pip picamera2 version
+  737  pip version picamera2
+  738  pip --version picamera2
+  739  pip picamera2 --version 
+  740  source 2052/bin/activate
+  741  cd ..
+  742  source 2052/bin/activate
+  743  cd 2052/
+  744  sudo apt upgrade
+  745  sudo apt install -y python3-picamera2
+  746  libcamera-hello
+  747  python3 trabalho6_cam.py 
+  748  libcamera-hello
+  749  python3 trabalho6_cam.py 
+  750  libcamera-hello
+  751  python3 trabalho6_cam.py 
+  752  libcamera-hello
+  753  python3 trabalho6_cam.py 
+  754  libcamera-hello
+  755  ls
+  756  nano uso_camera.py
+  757  libcamera-hello
+  758  pip freeze
+  759  libcamera-hello
+  760  nano uso_camera.py
+  761  libcamera-hello
+  762  ls
+  763  cd 2052/
+  764  ls
+  765  cd ..
+  766  source 2052/bin/activate
+  767  cd 2052/
+  768  ls
+  769  libcamare-hello
+  770  libcamera-hello
+  771  source 2052/bin/activate
+  772  cd 2052/
+  773  ls
+  774  touch keyTrabalho6.txt
+  775  nano keyTrabalho6.txt 
+  776  libcamera-hello
+  777  ls
+  778  git clone git@github.com:pedroribo/SEL0337-Trabalho6.git
+  779  git clone https://github.com/pedroribo/SEL0337-Trabalho6.git
+  780  ls
+  781  nano trabalho6_tagAccess.py 
+  782  nano trabalho6_cam.py 
+  783  fg
+  784  mv trabalho6_cam.py SEL0337-Trabalho6/
+  785  mv trabalho6_tagAccess.py SEL0337-Trabalho6/
+  786  ls
+  787  cd SEL0337-Trabalho6/
+  788  git status
+  789  git add trabalho6_cam.py 
+  790  git add trabalho6_tagAccess.py 
+  791  git commit -m "Adicionando os códigos criados em sala de aula."
+  792  git status
+  793  git push origin main
+  794  git status
+  795  git commit -m "Adicionando os códigos criados em sala de aula."
+  796  git config --global user.email "pedrorb@usp.br"
+  797  git config --global user.name "pedroribo"
+  798  git commit -m "Adicionando os códigos criados em sala de aula."
+  799  git push origin main
+  800  git log > gitLog.txt
+  801  ls
+  802  git status
+  803  git add gitLog.txt 
+  804  git commit -m "Adicionando o arquivo gitLog.txt."
+  805  git push 
+  806  cd ..
+  807  libcamera-hello
+  808  source 2052/bin/activate
+  809  cd 2052/
+  810  ls
+  811  cd E
+  812  cd SEL0337-Trabalho6/
+  813  python3 trabalho6_cam.py 
+  814  picamera2
+  815  sudo apt install -y python3-pyqt5 python3-opengl
+  816  libcamera-hello
+  817  deactivate
+  818  libcamera-hello
+  819  cd /
+  820  libcamera-hello
+  821  cd 2052
+  822  cd ~
+  823  cd 2052/
+  824  cd SEL0337-Trabalho6/
+  825  libcamera-hello
+  826  picamera2
+  827  libcamera-hello
+  828  sudo apt update
+  829  sudo apt upgrade
+  830  libcamera-hello
+  831  ls
+  832  cd 8149/
+  833  ls
+  834  git status
+  835  git clone https://github.com/vmdelmondes/Pratica6-Embarcados.git
+  836  ls
+  837  cd Pratica6-Embarcados/
+  838  ls
+  839  ls -a
+  840  git branch
+  841  git switch develop
+  842  git branch develop
+  843  git switch develop
+  844  git branch
+  845  sudo raspi-config -system
+  846  ls
+  847  touch camera.py
+  848  geany camera.py
+  849  libcamera-hello
+  850  pinou
+  851  pinout
+  852  sudo raspi-config -system
+  853  ls
+  854  cd 8149/
+  855  ls
+  856  touch blink.sh
+  857  ls
+  858  geany blink.sh
+  859  chmod +x blink.sh
+  860  blink.sh
+  861  ./blink.sh
+  862  geany blink.sh
+  863  ./blink.sh
+  864  ls -l
+  865  ./blink.sh
+  866  touch blink.service
+  867  geany blin.service
+  868  ls
+  869  geany blink.service
+  870  cd home
+  871  cd /home
+  872  ls
+  873  cd sel
+  874  ls
+  875  cd 8149
+  876  ls
+  877  geany blink.service
+  878  sudo cp blink.service /lib/systemd/system/
+  879  sudo systemctl start blink
+  880  cd /
+  881  ls
+  882  cd sys
+  883  ls
+  884  cd /lib/systemd/system/
+  885  ls
+  886  geany blink.service
+  887  sudo geany blink.service
+  888  sudo systemctl start blink
+  889  sudo geany blink.service
+  890  sudo systemctl start blink
+  891  sudo systemctl stop blink
+  892  sudo systemctl start blink
+  893  sudo systemctl stop blink
+  894  sudo systemctl enable blink
+  895  cd 8149/
+  896  ls
+  897  geany ledblink.py
+  898  ls
+  899  cd 8149/
+  900  ls
+  901  geany blink.service
+  902  cd ..
+  903  ls
+  904  cd 8149/
+  905  ls
+  906  cd /
+  907  ls
+  908  cd usr
+  909  ls
+  910  cd bin
+  911  ls
+  912  cd ^
+  913  cd ~
+  914  ls
+  915  cd 8149/
+  916  ls
+  917  geany blink.sh
+  918  ls
+  919  cd /lib/systemd/system/
+  920  ls
+  921  geany blink.service
+  922  sudo geany blink.service
+  923  cd 8149/
+  924  ls
+  925  cd /lib/systemd/system/
+  926  sudo geany blink.service
+  927  cd ~
+  928  cd 8149/
+  929  ls
+  930  history --help
+  931  history
+  932  touch history_pratica7.txt
+  933  geany history_pratica7.txt
+  934  ls
+  935  nano blink.sh
+  936  chmod +x ./blink.sh
+  937  ./blink.sh
+  938  nano blink.sh
+  939  ./blink.sh
+  940  ls
+  941  nano blink.service
+  942  sudo cp blink.service /lib/systemd/system/
+  943  sudo systemctl start blink
+  944  nano blink.service
+  945  ls
+  946  sudo systemctl start blink
+  947  nano blink.service
+  948  systemctl status blink.service
+  949  sudo systemctl start blink
+  950  sudo systemctl stop blink
+  951  sudo systemctl start blink
+  952  sudo systemctl stop blink
+  953  sudo systemctl start blink
+  954  sudo systemctl stop blink
+  955  systemctl daemon-reload
+  956  sudo systemctl start blink
+  957  systemctl daemon-reload
+  958  sudo systemctl start blink
+  959  nano blink.service
+  960  ls
+  961  pwd
+  962  nano blink.service
+  963  sudo cp blink.service /lib/systemd/system/
+  964  sudo systemctl start blink
+  965  systemctl daemon-reload
+  966  sudo systemctl start blink
+  967  systemctl daemon-reload
+  968  sudo systemctl start blink
+  969  sudo systemctl stop blink
+  970  sudo systemctl start blink
+  971  sudo systemctl stop blink
+  972  sudo systemctl enable blink
+  973  nano blinkled.py
+  974  sudo systemctl disable blink
+  975  nano blinkled.py
+  976  ython blinkled.py
+  977  python blinkled.py
+  978  nano blinkled.py
+  979  python blinkled.py
+  980  nano blink.service
+  981  nano blinkled.service
+  982  sudo cp blinkled.service /lib/systemd/system/
+  983  sudo systemctl start blinkled
+  984  nano blinkled.service
+  985  sudo systemctl start blinkled
+  986  systemctl status blinkled.service
+  987  nano blinkled.service
+  988  sudo cp blinkled.service /lib/systemd/system/
+  989  sudo systemctl start blinkled 
+  990  sudo systemctl enable blinkled
+  991  history > historico.txt
+  992  nano historico.txt
+  993  pinout
+  994  ls
+  995  cd 2052/
+  996  ls
+  997  cd ..
+  998  source 2052/bin/activate
+  999  ls
+ 1000  cd 2052/
+ 1001  ls
+ 1002  mkdir pratica7
+ 1003  ls
+ 1004  cd pratica7
+ 1005  touch teste.py
+ 1006  nano teste.py 
+ 1007  rm teste.py 
+ 1008  deactivate
+ 1009  pinout
+ 1010  deactivate
+ 1011  ls
+ 1012  nano pisca.sh 
+ 1013  ls -l
+ 1014  chmod +x ./pisca.sh
+ 1015  ls -l pisca.sh 
+ 1016  ./pisca.sh 
+ 1017  pinout
+ 1018  nano pisca.sh 
+ 1019  ./pisca.sh 
+ 1020  nano pisca.sh 
+ 1021  ./pisca.sh 
+ 1022  nano pisca.service
+ 1023  pwd
+ 1024  nano pisca.service
+ 1025  sudo cp pisca.service /lib/systemd/system/
+ 1026  ls /lib/systemd/system/
+ 1027  sudo systemctl start pisca
+ 1028  sudo systemctl stop pisca
+ 1029  sudo systemctl start pisca
+ 1030  sudo systemctl stop pisca
+ 1031  sudo systemctl enable pisca
+ 1032  cd 2052/
+ 1033  cd pratica4
+ 1034  ls
+ 1035  nano pwm_pratica4.py
+ 1036  pwd
+ 1037  cd 
+ 1038  cd ..
+ 1039  ls
+ 1040  cd usr
+ 1041  ls
+ 1042  cd bin/
+ 1043  ls
+ 1044  cd python3
+ 1045  cd
+ 1046  cd 2052/pratica7
+ 1047  ls
+ 1048  nano pisca.service 
+ 1049  cd
+ 1050  cd 2052/pratica4
+ 1051  ls
+ 1052  cd ..
+ 1053  cd pratica7
+ 1054  nano pisca.service 
+ 1055  sudo systemctl disable pisc
+ 1056  sudo cp pisca.service /lib/systemd/system/
+ 1057  ls lib/systemd/system/
+ 1058  ls 
+ 1059  ls /lib/systemd/system/
+ 1060  sudo sysyemctl stop blink
+ 1061  sudo sysytemctl stop blink
+ 1062  sudo systemctl stop blink
+ 1063  sudo systemctl stop pisca
+ 1064  sudo systemctl start pisca
+ 1065  sudo systemctl stop pisca
+ 1066  sudo systemctl enable pisca
+ 1067  cd 2052/pratica7
+ 1068  history > history.txt
